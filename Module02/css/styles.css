@@ -2,7 +2,7 @@ header{
 	border-top: 2px black solid;
 	border-bottom: 2px black solid;
 	text-align: center;
-	border-right: 10px solid black;
+	border-right: 10px solid rgb(50, 66, 139);
 	font-variant: small-caps;
 	}
 	
@@ -19,7 +19,7 @@ header{
 	
 	aside{
 	text-align: right;
-	border-right: 10px solid black;
+	border-right: 10px solid rgb(50, 66, 139);
 	float: right;
 	padding: 10px;
 	}
@@ -58,11 +58,11 @@ header{
 	section{
 	width: 83%;
 	text-align: justify;
-	border-top: 2px solid #008005;
-	border-bottom: 2px solid #008005;
-	border-right: 2px solid #008005;
-	border-left: 30px solid #008005;
-	background-color: #feffef;
+	border-top: 2px solid #803100;
+	border-bottom: 2px solid #803100;
+	border-right: 2px solid #803100;
+	border-left: 30px solid #803100;
+	background-color: #fff7ef;
 	padding-top: 5px;
 	padding-bottom: 5px;
 	padding-right: 5px;
