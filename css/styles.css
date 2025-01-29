@@ -1,0 +1,86 @@
+header{
+	border-top: 2px black solid;
+	border-bottom: 2px black solid;
+	text-align: center;
+	border-right: 10px solid rgb(50, 66, 139);
+	font-variant: small-caps;
+	}
+	
+	body{
+	background-image: url('../images/WidgetCoLogo.gif');
+	background-repeat: no-repeat;
+		background-position: center;
+	
+	}
+	
+	url{
+	align-content: center;
+	}
+	
+	aside{
+	text-align: right;
+	border-right: 10px solid rgb(50, 66, 139);
+	float: right;
+	padding: 10px;
+	}
+	
+	aside::first-line{
+	font-weight: bold;
+	}
+	
+	h1{
+	text-align: left;
+	font-weight: bold;
+	width: 70%;
+	font-size: 40px;
+	}
+	
+	article{
+		margin-top: 80px;
+		margin-left: 80px;
+		margin-right: 80px;
+		margin-bottom: 10px;
+	}
+	
+	h2{
+	font-style: italic;
+	text-align: center;
+		width: 90%;
+	float: inherit;
+	}
+	
+	p{
+	width: 90%;
+	text-align: justify;
+	margin: 10px;
+	}
+	
+	section{
+	width: 83%;
+	text-align: justify;
+	border-top: 2px solid #803100;
+	border-bottom: 2px solid #803100;
+	border-right: 2px solid #803100;
+	border-left: 30px solid #803100;
+	background-color: #fff7ef;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	padding-left: 20px;
+	}
+	
+	section a{
+	font-weight: bold;
+	}
+	
+	footer{
+	border-top: 2px solid black;
+	text-align: right;
+	margin-top: 20px;
+	opacity: 50%;
+	font-style: italic;
+	}
+	
+	footer a{
+	color: black;
+	}
